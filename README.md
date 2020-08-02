@@ -8,3 +8,4 @@ Submission 1 Dicoding Academy Kelas Belajar Fundamental Aplikasi Android (BFAA)
 ### App Features
 1. Show List Github Users
 2. Show Detail Github User
+3. Using RecyclerView to List Github Users
